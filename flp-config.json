@@ -13,10 +13,10 @@
     },
     "assignment": {
         "groups": [
-            "3578a01c-8bec-44ba-9c8e-13bfea4efba1-1528983183698"
+            "5df8b5ce-4525-4e86-9e7c-c8c4df2f37dd"
         ],
         "contentPackages": [
-            "bf3cb186-c4e0-4452-82d6-bde1d6b3d7c0-1528968411623"
+            "9cec20bf-7531-4109-b548-f07420dae5c2"
         ],
         "categories": []
     },
@@ -25,7 +25,7 @@
         "title": "Field Maintenance",
         "subtitle": "",
         "searchKeywords": "Field Maintenance,",
-        "displayIconUrl": "sap-icon://approvals",
+        "displayIconUrl": "sap-icon://eam-work-order",
         "displayInfoText": "",
         "size": "1x1",
         "serviceURL": "",
